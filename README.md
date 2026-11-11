@@ -153,3 +153,4 @@ npm run tauri build
 ```
 The compiled setup files will be placed in:
 `src-tauri/target/release/bundle/nsis/` (NSIS Installer) and `bundle/msi/` (WiX MSI Installer).
+"# remote-to-you" 
